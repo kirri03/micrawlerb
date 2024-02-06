@@ -1,3 +1,5 @@
+### ESTE CODIGO FUE UNA VERSION PRELIMINAR QUE YA NO SE USA ###
+
 from fastapi import FastAPI
 import time
 import requests
